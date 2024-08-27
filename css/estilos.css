@@ -30,7 +30,7 @@ body {
 
         .noticia a {
             text-decoration: none;
-            color: blue;
+            color: red;
         }
 
         .noticia a:hover {
